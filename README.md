@@ -1,6 +1,4 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oAuth-Buttons/logo-providers/blob/master/svg/naver.svg%2Fimchanghwan&count_bg=%23FF00C5&title_bg=%23131313&icon=naver.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://blog.naver.com/im_changhwan)
 
 [![Solved.ac
@@ -8,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanghwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src="https://img.shields.io/badge/표시할_텍스트-색상코드?style=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
 <!--
 **imchanghwan/imchanghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
