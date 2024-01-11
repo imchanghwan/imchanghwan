@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/imchanghwan}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
 <!--
 **imchanghwan/imchanghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
