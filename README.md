@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimchanghwan&count_bg=%2341D332&title_bg=%233F3F3F&icon=bloglovin.svg&icon_color=%23E7E7E7&title=NaverBlog&edge_flat=false)](https://blog.naver.com/im_changhwan)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimchanghwan&count_bg=%2341D332&title_bg=%233F3F3F&icon=https://s.pstatic.net/static/www/nFavicon96.png&icon_color=%23E7E7E7&title=Blog&edge_flat=false)](https://blog.naver.com/im_changhwan)
 <!--
 **imchanghwan/imchanghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
