@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oAuth-Buttons/logo-providers/blob/master/svg/naver.svg%2Fimchanghwan&count_bg=%23FF00C5&title_bg=%23131313&icon=naver.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://blog.naver.com/im_changhwan)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/ckdghks0317)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdghks0317)](https://solved.ac/ckdghks0317)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanghwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
