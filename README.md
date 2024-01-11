@@ -8,8 +8,9 @@
 </div>
 
 <a href="https://solved.ac/ckdghks0317"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdghks0317&theme=dark"/></a>
-
+<div algin="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanghwan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <!--
