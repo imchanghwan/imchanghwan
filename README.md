@@ -4,10 +4,7 @@
 <a href="https://blog.naver.com/im_changhwan"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   ---
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdghks0317)](https://solved.ac/ckdghks0317)
-
-<a href="https://solved.ac/ckdghks0317"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
+<a href="https://solved.ac/ckdghks0317"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdghks0317&theme=dark"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanghwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
