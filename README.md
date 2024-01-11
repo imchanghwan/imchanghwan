@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanghwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/표시할_텍스트-색상코드?style=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/#03C75A?style=flat-square&logo=simpleicons_naver&logoColor=white"/>
 <!--
 **imchanghwan/imchanghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
